@@ -1,6 +1,8 @@
 # 🇯🇵 Japanese Style Responsive Navbar
 
-# Japanese Style Responsive Navbar
+Live Demo: https://hugamg.github.io/responsive-navbar-project/
+
+--------------------------------------------------
 
 A clean and minimal responsive navigation bar inspired by Japanese design, built using HTML and CSS only, with a small JavaScript interaction for the mobile menu toggle. I'm not using AI for this project.
 
