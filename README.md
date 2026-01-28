@@ -102,15 +102,6 @@ You are free to use, modify, and distribute it.
 
 --------------------------------------------------
 
-Contributing
-
-Contributions are welcome.
-
-- Fork the repository
-- Create a new branch
-- Submit a pull request
-
---------------------------------------------------
 
 Support
 
